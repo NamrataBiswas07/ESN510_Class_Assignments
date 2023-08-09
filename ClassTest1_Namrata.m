@@ -15,6 +15,5 @@ disp(C)
 clear all
 clc
 
-imgpath = 'C:\Users\Matlab\Downloads\classes-master\classes-master\numerical_methods\lab\data\iit-roorkee-logo.png'
 M = imread("C:\Users\Matlab\Downloads\classes-master\classes-master\numerical_methods\lab\data\iit-roorkee-logo.png")
 imshow(M)
